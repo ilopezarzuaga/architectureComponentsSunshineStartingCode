@@ -1,0 +1,252 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/2db2079de34f0904fd74a4a02544acd8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/669a8aaa1a887eb016d9042fc2d354a2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/ec8e4c6df7bd49d4e433933284bb35b9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:17:1-42:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/9122d8298b3c859ac9c0e9c33a31d2e4/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4d19c8a7e8939122900e422c9b0ecfe/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/001e930c0448b5e4fdae1e688131e9a0/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4217e37bc6143b004ea28ded68bbe83/AndroidManifest.xml:17:1-26:12
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/44c567ba131ac8c31d44c8460d1d2a60/AndroidManifest.xml:17:1-26:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+	package
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:19:5-43
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:18:5-51
+	android:versionCode
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:1-75:12
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:17:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:22:22-64
+application
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:24:5-74:19
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/ec8e4c6df7bd49d4e433933284bb35b9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/ec8e4c6df7bd49d4e433933284bb35b9/AndroidManifest.xml:9:5-20
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:26:5-40:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:26:5-40:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:28:9-35
+	android:label
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:29:9-40
+meta-data#android.support.VERSION
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:31:9-34:38
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:26:9-28:38
+	tools:replace
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:32:13-42
+	android:value
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:34:13-35
+		REJECTED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:25:13-35
+		REJECTED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:28:13-35
+		REJECTED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:33:13-51
+activity#com.example.android.sunshine.ui.list.MainActivity
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:37:9-42:20
+	android:label
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:40:13-43
+	android:theme
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:41:13-53
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:38:13-49
+activity#com.example.android.sunshine.ui.detail.DetailActivity
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:45:9-57:20
+	android:parentActivityName
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:48:13-63
+	android:label
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:47:13-58
+	android:theme
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:46:13-53
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:50:13-52:56
+	android:value
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:52:17-54
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:51:17-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:53:13-56:29
+action#android.intent.action.MAIN
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:54:17-68
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:54:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:55:17-76
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:55:27-74
+service#com.example.android.sunshine.data.network.SunshineSyncIntentService
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:61:9-63:40
+	android:exported
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:62:13-67
+service#com.example.android.sunshine.data.network.SunshineFirebaseJobService
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:66:9-72:19
+	android:exported
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:68:13-37
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:67:13-68
+intent-filter#action:name:com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:69:13-71:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:70:17-83
+	android:name
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml:70:25-81
+uses-sdk
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/2db2079de34f0904fd74a4a02544acd8/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/2db2079de34f0904fd74a4a02544acd8/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/669a8aaa1a887eb016d9042fc2d354a2/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/669a8aaa1a887eb016d9042fc2d354a2/AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a1e2e04aa20eebaa1ad6019c62502dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/578146d4a22e69501dbca5f7b8ca5890/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/ec8e4c6df7bd49d4e433933284bb35b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/ec8e4c6df7bd49d4e433933284bb35b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/9122d8298b3c859ac9c0e9c33a31d2e4/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/9122d8298b3c859ac9c0e9c33a31d2e4/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/c9bdb573e4c69fcf3677dd3994c10777/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/959b6079e31f8550a970644711f5ac7e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/955f8175cdba22dc691deae340257fed/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/29dd6c2b18d5777a3c58306e62ed65a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a207c7491ed24c56a352cb66af4a624c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/1a2ac68a90f109cde5861446b06f43c6/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/32c1d179903e58a621c95e2e70474f16/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/0a5d0eb7938546d2f750527d5e0a065b/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4d19c8a7e8939122900e422c9b0ecfe/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4d19c8a7e8939122900e422c9b0ecfe/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/001e930c0448b5e4fdae1e688131e9a0/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db-impl:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/001e930c0448b5e4fdae1e688131e9a0/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4217e37bc6143b004ea28ded68bbe83/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.persistence.room:support-db:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/a4217e37bc6143b004ea28ded68bbe83/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/44c567ba131ac8c31d44c8460d1d2a60/AndroidManifest.xml:22:5-24:41
+MERGED from [android.arch.core:runtime:1.0.0-alpha9] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/44c567ba131ac8c31d44c8460d1d2a60/AndroidManifest.xml:22:5-24:41
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.1] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/6c2a5982c3362b549223b971ce9a3d00/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/src/main/AndroidManifest.xml
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:33:13-73
+intent-filter#action:name:com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.7.0] /Users/pitagoras/.gradle/caches/transforms-2/files-2.1/8a440688cf97b8c8ebc2d9538eab28b4/AndroidManifest.xml:37:25-84

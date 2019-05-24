@@ -1,0 +1,4 @@
+#Wed May 15 21:23:15 ART 2019
+base.0=/Users/pitagoras/Documents/AndroidProjects/architectureComponentsSunshineStartingCode/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
